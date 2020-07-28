@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Guerrier",
+        "icon": "https://cdn.discordapp.com/attachments/737385360186933288/737388507546517504/WoW-Classic-Warrior-Guide.png",
+        "description": "Depuis que la guerre fait rage, des héros de toutes races ont cherché à maîtriser l’art du combat. Les guerriers combinent force, autorité et maîtrise des armes et des armures pour causer des ravages dans des combats épiques.",
+        "attributs": {
+            "strength": 6,
+            "agility": 3,
+            "intelligence": 2,
+            "spirit": 1
+        }
+    },
+    {
+        "name": "Voleur",
+        "icon": "https://cdn.discordapp.com/attachments/737385360186933288/737388480392462426/WoW-Classic-Rogue-Guide.png",
+        "description": "Un seul code pour les voleurs : remplir le contrat. Quant à leur honneur… tout s’achète avec des pièces d’or. Ces mercenaires s’appuient sur des tactiques brutales et efficaces sans l’ombre d’un remords.",
+        "attributs": {
+            "strength": 2,
+            "agility": 6,
+            "intelligence": 3,
+            "spirit": 1
+        }
+    },
+    {
+        "name": "Mage",
+        "icon": "https://cdn.discordapp.com/attachments/737385360186933288/737388388713234523/WoW-Classic-Mage-Guide.png",
+        "description": "Les étudiants les plus intelligents et les plus disciplinés peuvent envisager une carrière de mage. Comme la magie des arcanes que manipulent les mages est à la fois puissante et dangereuse, elle n’est enseignée qu’à ceux qui la pratiquent avec respect et assiduité.",
+        "attributs": {
+            "strength": 1,
+            "agility": 2,
+            "intelligence": 6,
+            "spirit": 3
+        }
+    },
+    {
+        "name": "Clerc",
+        "icon": "https://cdn.discordapp.com/attachments/737385360186933288/737388456740913192/WoW-Classic-Priest-Guide.png",
+        "description": "C’est au spirituel que les prêtres ont consacré leur vie et c’est en étant au service des autres que leurs actes traduisent la force de leur foi. Depuis des millénaires, ils ont quitté le confort de leurs lieux saints et sont sortis du cadre de leurs temples pour aller soutenir leurs alliés sur les terres dévastées par la guerre.",
+        "attributs": {
+            "strength": 1,
+            "agility": 2,
+            "intelligence": 3,
+            "spirit": 6
+        }
+    }
+]

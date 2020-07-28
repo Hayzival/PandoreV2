@@ -1,1 +1,1 @@
-# PandoreV2
+# Pandore

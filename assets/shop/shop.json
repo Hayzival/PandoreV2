@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Epée en bois",
+        "type": "Main hand",
+        "icon": "https://cdn.discordapp.com/attachments/737385360186933288/737629834053943367/Wooden_Sword.png",
+        "color": "#866526",
+        "description": "Juste une épee en bois",
+        "item": "Epée en bois",
+        "prix": 50,
+        "attributs": { "strength": 1}
+    },
+    {
+        "name": "Epée en fer",
+        "type": "Main hand",
+        "icon": "https://cdn.discordapp.com/attachments/737385360186933288/737631256057086012/Iron_Sword.png",
+        "color": "#F5F5F5",
+        "description": "Juste une épee en fer",
+        "item": "Epée en fer",
+        "prix": 100,
+        "attributs": { "strength": 2}
+    }
+]
